@@ -4,7 +4,7 @@
 
 This project includes the C++ implementation of the BrachioGraph library developed by [Daniele Procida](https://github.com/evildmp/BrachioGraph) which is written in Python.
 
-To view the project utilizing this library, click [here]([https://github.com/evildmp/BrachioGraph](https://github.com/elw1s/2DOF-Painter-Robot-Arm)).
+To view the project utilizing this library, click [here](https://github.com/elw1s/2DOF-Painter-Robot-Arm).
 
 ## Installation
 

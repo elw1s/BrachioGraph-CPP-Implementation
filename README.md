@@ -1,14 +1,14 @@
+# BrachioGraph C++ Library
 
-# Brachio Graph C++ Implementation
+## Overview
 
-https://github.com/evildmp/BrachioGraph
+This project includes the C++ implementation of the BrachioGraph library developed by Daniele Procida.
 
-
-
+To view the project utilizing this library, click [here]([link_to_project](https://github.com/evildmp/BrachioGraph)).
 
 ## Installation
 
-Install opencv for c++ through https://www.geeksforgeeks.org/how-to-install-opencv-in-c-on-linux/
+Install OpenCV for c++ through [GeeksForGeeks](https://www.geeksforgeeks.org/how-to-install-opencv-in-c-on-linux/)
 
 Then install
 ```bash
@@ -22,33 +22,6 @@ Then install
   make
   sudo make install
 ```
-
-Download required projects
-```bash
-  cd BrachioGraph
-  git clone --recurse https://github.com/zurutech/pillow-resize.git
-  cd pillow-resize
-  git submodule update --init --recursive
-  mkdir build && cd build
-  // Go to BrachioGraph/pillow-resize/libs
-  rmdir CLI11
-  rmdir magic_enum
-  git clone https://github.com/CLIUtils/CLI11.git
-  cd CLI11
-  mkdir build & cd build
-  cmake ..
-  make
-  // Go to BrachioGraph/pillow-resize/libs
-  git clone https://github.com/Neargye/magic_enum.git
-  cd magic_enum
-  mkdir build & cd build
-  cmake ..
-  make
-  // Go to BrachioGraph/pillow-resize/build
-  cmake ..
-  make
-```
-
 
 Run
 ```bash

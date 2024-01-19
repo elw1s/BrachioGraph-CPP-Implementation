@@ -4,7 +4,7 @@
 
 This project includes the C++ implementation of the BrachioGraph library developed by Daniele Procida.
 
-To view the project utilizing this library, click [here]([link_to_project](https://github.com/evildmp/BrachioGraph)).
+To view the project utilizing this library, click [here](https://github.com/evildmp/BrachioGraph).
 
 ## Installation
 
